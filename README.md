@@ -1,7 +1,7 @@
 ### Hello everybody! 👋 I'm Marc Boreu and I'm Front-End Developer 💻
 
 - ✅ Currently working on improving my Developer skills!
-- 🤓 Also learning React & Full-Stack with
+- 🤓 Also learning React & Full-Stack with MongoDB Express React and Node
 - 💪 Javascript, javascript, then javascript
 - 🚧 Currently, I'm making a personal project, a spanish community for a motorbike lovers. All made with React
 - 🚀 More about me: I love motorcycle 🏍️ - photography 📷 - snowboard 🏂 - meditation 🧘🏽 - mountain ⛰️ - travel ✈️ & food 🍽
