@@ -29,15 +29,15 @@
 
 ### Software & Technologies:
 
-<img align="left" alt="Adobe After Effects" width="26px" src="https://github.com/marcboreu/bio/blob/master/AdobeAfterEffects.png" />
-<img align="left" alt="Adobe Illustrator" width="26px" src="https://github.com/marcboreu/bio/blob/master/AdobeIlustrator.png" />
-<img align="left" alt="Adobe Lightroom" width="26px" src="https://github.com/marcboreu/bio/blob/master/AdobeLightroom.png" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/marcboreu/bio/blob/master/AdobePhotoshop.png" />
-<img align="left" alt="Adobe Premiere" width="26px" src="https://github.com/marcboreu/bio/blob/master/AdobePremiere.png" />
-<img align="left" alt="Final Cut Pro" width="26px" src="https://github.com/marcboreu/bio/blob/master/final-cut-pro-x-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/marcboreu/bio/blob/master/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" alt="Google Firebase" width="26px" src="https://github.com/marcboreu/marcboreu/blob/master/googleFirebase.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://github.com/marcboreu/marcboreu/blob/master/Wordpress.png" />
+<img align="left" alt="Adobe After Effects" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/AdobeAfterEffects.png" />
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/AdobeIlustrator.png" />
+<img align="left" alt="Adobe Lightroom" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/AdobeLightroom.png" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/AdobePhotoshop.png" />
+<img align="left" alt="Adobe Premiere" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/AdobePremiere.png" />
+<img align="left" alt="Final Cut Pro" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/final-cut-pro-x-logo.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
+<img align="left" alt="Google Firebase" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/googleFirebase.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/Wordpress.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -50,7 +50,7 @@
 ### Contact me on:
 
 [<img align="left" alt="marc boreu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="marcboreu.com" width="22px" src="https://github.com/marcboreu/marcboreu/blob/master/logoMarcBoreu__.png" />][website]
+[<img align="left" alt="marcboreu.com" width="22px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/logoMarcBoreu__.png" />][website]
 
 [linkedin]: https://www.linkedin.com/in/marcboreu/
 [website]: https://marcboreu.com/
