@@ -24,7 +24,7 @@
 
 
 ---
-
+<br>
 
 
 ### Software & Technologies:
@@ -44,6 +44,7 @@
 
 
 ---
+<br>
 
 
 
@@ -57,6 +58,7 @@
 
 
 ---
- 
+<br>
+
 
 <img align="left" alt="Marc Boreu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marcboreu&show_icons=true&hide_border=true" />
