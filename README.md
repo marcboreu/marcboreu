@@ -17,9 +17,10 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 
 ---
@@ -39,6 +40,16 @@
 <br>
 
 
+### CMS:
+
+<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+<img align="left" alt="Prestashop" width="26px" src="https://axeptio.imgix.net/2020/04/584815d1cef1014c0b5e4976.png?w=300?auto=format&fit=crop&w=170&h=auto&dpr=1" />
+
+
+---
+<br>
+
+
 ### Software & Technologies:
 
 <img align="left" alt="Adobe After Effects" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/AdobeAfterEffects.png" />
@@ -49,7 +60,6 @@
 <img align="left" alt="Final Cut Pro" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/final-cut-pro-x-logo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" alt="Google Firebase" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/googleFirebase.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/Wordpress.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
