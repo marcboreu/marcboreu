@@ -84,5 +84,4 @@
 
 
 <img align="left" alt="Marc Boreu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marcboreu&show_icons=true&hide_border=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcboreu&layout=compact)
-![Marc Boreu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcboreu&layout=compact)
+
