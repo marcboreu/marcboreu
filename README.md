@@ -84,7 +84,9 @@
 
 
 
-<img align="left" alt="Marc Boreu's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marcboreu&show_icons=true&hide_border=true&theme=react" />
-<img align="right" alt="Marc Boreu's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcboreu&theme=react&show_icons=true&hide_border=true&layout" />
-[<img align="left" alt="Marc Boreu's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcboreu" />]
-
+<a href="https://github.com/marcboreu">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=marcboreu&show_icons=true&include_all_commits=true&theme=react" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/marcboreu">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marcboreu&layout=compact&theme=react" />
+</a>
