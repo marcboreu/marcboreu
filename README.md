@@ -84,9 +84,3 @@
 
 
 
-<a href="https://github.com/marcboreu">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=marcboreu&show_icons=true&include_all_commits=true&theme=react" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/marcboreu">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marcboreu&layout=compact&theme=react" />
-</a>
