@@ -75,6 +75,7 @@ Since I was a child I have been passionate about technology. My beginnings were 
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" height="20" />
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="20" />
 <img src="https://img.shields.io/badge/WooCommerce-563D7C?style=for-the-badge&logo=WooCommerce&logoColor=white" height="20" />
+<img src="https://img.shields.io/badge/Drupal-0081CB?style=for-the-badge&logo=Drupal&logoColor=white" height="20" />
 </div>
 <br>
 <br>
@@ -82,9 +83,6 @@ Since I was a child I have been passionate about technology. My beginnings were 
 <div align="center">
 <img src="https://img.shields.io/badge/Vite-563D7C?style=for-the-badge&logo=Vite&logoColor=white" height="20" />
 <img src="https://img.shields.io/badge/Webpack-%230db7ed.svg?style=for-the-badge&logo=Webpack&logoColor=white" height="20" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20" />
-<img src="https://img.shields.io/badge/Proxmox-FF9A00?style=for-the-badge&logo=proxmox&logoColor=white" height="20" />
-<img src="https://img.shields.io/badge/Drupal-0081CB?style=for-the-badge&logo=Drupal&logoColor=white" height="20" />
 </div>
 <br>
 <br>
