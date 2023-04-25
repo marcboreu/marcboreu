@@ -4,17 +4,28 @@
 <h3 align="center">I'm Marc Boreu and I'm Front-End Developer 💻</h3>
 <br>
 <div align="center">
-<img src="./assets/logoMarcBoreu__.png" width="50" alt="Marc Boreu">
+<img src="./assets/logoMarcBoreu___.png" width="50" alt="Marc Boreu">
 </div>
+<br>
+<br>
+<div align="center">
+<img src="./assets/devmboreu.gif" alt="Marc Boreu">
+</div>
+<br>
+<br>
 
-![](./assets/devmboreu.gif)
+
 
 Since I was a child I have been passionate about technology. My beginnings were with an Intel 486 and a Nintendo Nes. Later I evolved to the Snes and a pentium, and that seemed like science fiction to me. Generation of game boy and dragon ball equally. In my adolescence I ventured into the world of online commerce in the Ibazar era, that in the future was going to be bought by eBay. I have always been excited to create things from nothing and solve problems. In the graphic and visual part of things I have always seen the wow effect!! Overcoming a challenge recharges me for the next challenge. Combining mental creations with manuals gives me a lot of balance. I trained in graphic design and lived through the transformation from analog to digital photography. Currently, I work in software development, specializing in Front-End with good knowledge of Back-End. Due to my character, as it could not be otherwise, I have also ventured into the world of entrepreneurship, which has allowed me new challenges and opportunities for improvement. I like to learn and put my skills to the test, working hard to achieve the best of myself in every project in which I participate. With a solid work ethic. Always willing to experiment and take risks in pursuit of my goals.
 
 <div align="center">
   <a href="https://github.com/marcboreu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcboreu&layout=compact&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcboreu&layout=compact&langs_count=8&theme=dark&bg_color=00000000&hide_border=true" />
   </a>
+  <a href="https://github.com/marcboreu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcboreu&show_icons=true&&layout=compact&theme=dark&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
+  
 </div>
 
 ---
