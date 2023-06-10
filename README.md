@@ -1,7 +1,7 @@
 ### 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmarcboreu&label=Visitors&labelColor=%23000000&countColor=%23d9e3f0&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmarcboreu)
 <h1 align="center">Hello everybody! 👋 </h1>
-<h3 align="center">I'm Marc Boreu and I'm Front-End Developer 💻</h3>
+<h3 align="center">I'm Marc Boreu and I'm Front-End Engineer 💻</h3>
 <br>
 <div align="center">
 <img src="./assets/logoMarcBoreu___.png" width="50" alt="Marc Boreu">
@@ -21,9 +21,6 @@ Since I was a child I have been passionate about technology. My beginnings were 
 <div align="center">
   <a href="https://github.com/marcboreu">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcboreu&layout=compact&langs_count=8&theme=dark&bg_color=00000000&hide_border=true" />
-  </a>
-  <a href="https://github.com/marcboreu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcboreu&show_icons=true&&layout=compact&theme=dark&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
   
 </div>
