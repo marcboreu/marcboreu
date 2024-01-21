@@ -1,7 +1,7 @@
 ### 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmarcboreu&label=Visitors&labelColor=%23000000&countColor=%23d9e3f0&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmarcboreu)
 <h1 align="center">Hello everybody! 👋 </h1>
-<h3 align="center">I'm Marc Boreu and I'm Frontend Engineer 💻</h3>
+<h3 align="center">I'm Marc Boreu and I'm Front-End Engineer 💻</h3>
 <br>
 <div align="center">
 <img src="./assets/logoMarcBoreu___.png" width="50" alt="Marc Boreu">
